@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=344897&width=435&lines=Hi+there!+I+am+Hanna+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=344897&width=435&lines=Hi+there!+I+am+Hanna+%F0%9F%91%8B](https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif)" alt="Typing SVG" /></a>
 <!--
 **Ani-k-a/Ani-k-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
