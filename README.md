@@ -8,10 +8,7 @@
   </a>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=344897&center=true&width=1000&lines=Hi+there!+I+am+Hanna+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there!+I+am+Hanna+%F0%9F%91%8B+;And+I+like+programming!)](https://git.io/typing-svg)
 
 
 ## My stack and tools
